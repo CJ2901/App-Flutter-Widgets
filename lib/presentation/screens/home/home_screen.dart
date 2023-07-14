@@ -12,7 +12,7 @@ class HomeScreen extends StatelessWidget {
     
     return Scaffold(
       appBar: AppBar(
-         title: const Text('Viva Flutter + M3 OH YEAH!'),
+         title: const Text('Viva Flutter + M3'),
          centerTitle: true,
       ),
       body: const _HomeView(),
